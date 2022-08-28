@@ -1,5 +1,5 @@
 .Class-div{
-    width: 500px;
+    width: 35vw;
     height:300px;
     box-sizing: border-box;
     padding: 20px;
@@ -8,7 +8,7 @@
     border-radius: 20px;
     background-color: rgb(246, 215, 137);
     position: absolute;
-    left: 810px;
+    left: 58vw;
     top: 270px;
     
 }
