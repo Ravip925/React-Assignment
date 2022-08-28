@@ -23,6 +23,7 @@ h1{
   border: none;
   font-weight: bold;
   font-size: 1.2em;
+  cursor: pointer;
 }
 .btn:hover{
   color: rgb(212, 212, 212);
