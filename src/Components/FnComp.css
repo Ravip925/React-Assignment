@@ -10,7 +10,7 @@
     position: absolute;
     left: 7vw;
     top: 270px;
-    
+    cursor: pointer;
 }
 .textOne{
     color: blue;
