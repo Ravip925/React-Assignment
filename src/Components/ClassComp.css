@@ -1,0 +1,17 @@
+.Class-div{
+    width: 500px;
+    height:300px;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid red;
+    border-radius: 20px;
+    background-color: rgb(246, 215, 137);
+    position: absolute;
+    left: 810px;
+    top: 270px;
+    
+}
+.textTwo{
+    color: brown;
+}
